@@ -1,6 +1,7 @@
 # Manufacturing-Line-Productivity-Power-BI-Project
 This project is a comprehensive Data Analysis and Visualization report created using Power BI, focused on evaluating and improving the productivity of a manufacturing line.
 🔍 Project Overview
+
 The goal of this project is to provide actionable insights into production efficiency, machine performance, and stoppage analysis using real-world manufacturing data.
 
 📁 Contents
@@ -32,4 +33,5 @@ Microsoft Excel
 Data modeling and DAX for custom metrics
 
 ✅ Outcomes
+
 This project demonstrates how data visualization can be used to monitor and enhance manufacturing operations, supporting better decision-making and operational efficiency.
