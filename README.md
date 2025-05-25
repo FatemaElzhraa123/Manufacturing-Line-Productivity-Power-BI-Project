@@ -4,9 +4,14 @@ This project is a comprehensive Data Analysis and Visualization report created u
 The goal of this project is to provide actionable insights into production efficiency, machine performance, and stoppage analysis using real-world manufacturing data.
 
 📁 Contents
+
 Dataset (.xlsx): Contains raw data on production batches, line productivity, stoppages, and more.
 
 Power BI Report (.pbix): A fully interactive dashboard with charts, KPIs, slicers, and visual tools to explore key performance metrics.
+
+Final Presentation (.pdf): A slide deck summarizing the objectives, methodology, key insights, and conclusions of the project.
+
+Documentation (.pdf): Detailed technical report outlining the data preparation, modeling techniques, DAX formulas, and dashboard design rationale.
 
 📌 Key Insights
 
