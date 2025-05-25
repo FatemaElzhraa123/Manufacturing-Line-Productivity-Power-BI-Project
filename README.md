@@ -9,6 +9,7 @@ Dataset (.xlsx): Contains raw data on production batches, line productivity, sto
 Power BI Report (.pbix): A fully interactive dashboard with charts, KPIs, slicers, and visual tools to explore key performance metrics.
 
 📌 Key Insights
+
 Total production output and productivity trends
 
 Downtime analysis by machine and reason
@@ -18,6 +19,7 @@ Shift-wise and batch-wise performance comparison
 Custom filters and time-based analysis for deeper insight
 
 🛠 Tools Used
+
 Microsoft Power BI
 
 Microsoft Excel
